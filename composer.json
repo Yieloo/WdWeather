@@ -1,0 +1,13 @@
+{
+    "name": "yieloo/WdWeather",
+    "authors": [
+        {
+            "name": "Yieloo",
+            "email": "assistance@intraknow.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.3.0"
+    }
+}
